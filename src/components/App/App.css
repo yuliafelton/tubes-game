@@ -1,0 +1,8 @@
+.app-container {
+    padding: 0;
+}
+
+.tube-container{
+    padding: 0 15%;
+    display: flex;
+}
